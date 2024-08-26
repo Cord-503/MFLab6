@@ -31,6 +31,6 @@ public class MovePlatform : MonoBehaviour
 
     void UpdateUIText()
     {
-        uiText.text = "Press W key to move the platform upward\nPress the S key to move the platform downward";
+        uiText.text = "Press R key to Respawn a object\nPress Space key to start simulate\nPress W key to move the platform upward\nPress the S key to move the platform downward";
     }
 }
